@@ -1,3 +1,3 @@
 # 01. Toy CPU #
 ---
-### Making CPU by Logosim ###
+### Logosim을 사용하여 CPU를 만들어 봅시다! ###
