@@ -1,6 +1,6 @@
 # 03. MIR(Multidimensional Interactive Reality) Engine
 ---
-### MIR 엔진 프로젝트는 자체 게임 엔진 프로젝트입니다
+### MIR 엔진은 자체 게임 엔진 프로젝트입니다
 
 > 추가될 기능
 > - 물리 엔진(충돌 처리, 강체 역학 계산) 라이브러리
